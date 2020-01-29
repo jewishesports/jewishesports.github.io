@@ -1,28 +1,49 @@
 body{
-	margin: 46px 20% 20%;
+  background-color: #aaaaaa;
+  margin: 0;
+  padding: 0;
 }
 .navbar ul {
-  position: fixed;
+  display: block;
   top: 0;
   left: 0;
-  width: 100%;
   list-style-type: none;
   margin: 0;
-  padding-left: 64px;
+  padding-left: 20%;
   overflow: hidden;
   background-color: #333;
 }
-li{
+.navbar li{
   float: left;
 }
-li a{
+.navbar li a{
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
+.main_content{
+  display: flex;
+  flex-flow: row wrap;
+  margin: 46px 10% 0% 10%;
+}
+ul ul{
+	list-style: square;
+}
 
+img{
+  align-self: center;
+}
+h1, h2{
+  width: 100%;
+}
+.hof_game{
+
+}
+.trophies{
+	list-style-image: url(trophy1.png);
+}
 /* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #111;
