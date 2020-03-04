@@ -1,0 +1,23 @@
+<ul class="social-media-list">
+  {%- if site.facebook_username -%}
+    <li><a href="https://www.facebook.com/groups/{{ site.facebook_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg> <span class="username">Facebook</span></a></li>
+  {%- endif -%}
+  {%- if site.youtube_username -%}
+    {% capture youtube_link %}
+        {% if site.youtube_channel %}
+        https://www.youtube.com/channel/{{ site.youtube_channel }}
+        {% else %}
+        https://youtube.com/{{ site.youtube_username | cgi_escape | escape }}
+        {% endif %}
+    {% endcapture %}
+    <li><a href="{{ youtube_link }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg> <span class="username">YouTube</span></a></li>
+  {%- endif -%}
+  {% if site.discord_invite %}
+    <li>
+        <a href="https://discord.gg/{{ site.discord_invite }}"><img class="svg-icon" src="{{ "/assets/icons/discord.png" | relative_url }}"><span class="username">Discord</span></a>
+    </li>
+  {% endif %}
+  {% if site.subreddit %}
+    <li><a href="https://www.reddit.com/r/{{ site.subreddit | cgi_escape | escape }}"><img class="svg-icon" src="{{ "/assets/icons/reddit.png" | relative_url}}"><span class="username">Reddit</span></a></li>
+  {% endif %}
+</ul>

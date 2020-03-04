@@ -1,0 +1,35 @@
+---
+layout: page
+title: Hall of Fame
+permalink: /hall-of-fame/
+---
+
+<p>
+    We have so many sick players and people. We're awesome.
+    Please check them out and worship them for the tournaments they've won.
+    Some images would be great here.
+</p>
+
+<div class="container">
+    {% for entry in site.hall_of_fame %}
+    <div class="card bg-transparent rounded-0 border-dark border-top-0 border-right-0 border-left-0">
+        <div class="row">
+            <div class="card-body bg-transparent col-sm">
+                <h1 class="card-title">{{ entry.tag }}</h1>
+
+                <p class="card-text">{{ entry.content }}</p>
+            </div>
+            <div class="card-body col-sm">
+                <ul class="list-group list-group-flush">
+                    {% for tourney in entry.tournaments %}
+                    <li class="list-group-item bg-transparent">
+                        <img src="{{ "/assets/images/trophy.png" | relative_url }}" height="30">
+                        <span>{{ tourney }}</span>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>

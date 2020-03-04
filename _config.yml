@@ -1,0 +1,35 @@
+title: National Hillel Esports Initative
+email: jewishesports@gmail.com
+description: >-
+  The Nation Hillel Esports Initiative is a group of college students
+  across the country trying to unify segments of the Jewish world over
+  a shared love for video games.
+header_pages:
+  - pages/past-events.markdown
+  - pages/hall-of-fame.html
+  - pages/about.markdown
+title_logo: /assets/images/NHEI_Logo_transparent_2.png
+baseurl: /nhei-website
+url: ""
+
+# Social media
+discord_invite: kff73JW
+subreddit: JewishEsports
+facebook_username: JewishEsports
+youtube_username: National Hillel Esports Initiative
+youtube_channel: UCXR3HrzUVzKkH_h6sV_kyIw # Remove this line once we have an actual username
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+collections_dir: collections
+collections:
+  hall_of_fame:
+    sort_by: tag
+
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
