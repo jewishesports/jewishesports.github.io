@@ -9,7 +9,8 @@ header_pages:
   - pages/hall-of-fame.html
   - pages/about.markdown
 title_logo: /assets/images/NHEI_Logo_transparent_2.png
-baseurl: /nhei-website
+# Uncomment the following line if using a GitHub project page
+# baseurl: /nhei-website
 url: ""
 
 # Social media
