@@ -4,9 +4,10 @@
   <nav class="navbar">
     <ul>
       <li><a href="index.html">Home</a></li>
-      <li class="active"><a href="news.html">News</a></li>
+      <li><a href="news.html">News</a></li>
       <li><a href="events.html">Events</a></li>
       <li><a href="hall_of_fame.html">Hall of Fame</a></li>
+      <li class="active"><a href="power_rankings.html">Power Rankings</a></li>
       <li><a href="about.html">About</a></li>
       <li><a href="contact_us.html">Contact us</a></li>
     </ul>
