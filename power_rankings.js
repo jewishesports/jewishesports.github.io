@@ -19,6 +19,7 @@
 
 
   function addPrList(){
+    window.alert("got to addPrList");
     var file = JSON.parse(readJSON("power_rankings.json"));
     for(var i = 0; i < 20; i++) {
       var list = document.createElement("li");
