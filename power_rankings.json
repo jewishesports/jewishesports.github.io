@@ -1,0 +1,1983 @@
+﻿{
+    "Names_SmashTags": [
+        {
+            "Name": "Ariel Raskin",
+            "Main (Melee)": "Pikachu",
+            "Main (PM)": "Pikachu",
+            "Smashtag": "Thetreesknees",
+            "Old Smashtag": "treeonthemoon"
+        },
+        {
+            "Name": "Aryeh Ness",
+            "Smashtag": "Nestle",
+            "Old Smashtag": "Noss"
+        },
+        {
+            "Name": "Netanel Arussy",
+            "Main (PM)": "Zelda",
+            "Smashtag": "Cowman"
+        },
+        {
+            "Name": "Avrami Allen",
+            "Main (Melee)": "?",
+            "Main (PM)": "?",
+            "Smashtag": "Imprune",
+            "Old Smashtag": "Implants"
+        },
+        {
+            "Name": "Ben Mendelovitz",
+            "Smashtag": "Bunjo"
+        },
+        {
+            "Name": "Chaya Willick",
+            "Smashtag": "ChaChis"
+        },
+        {
+            "Name": "Daniel Falk",
+            "Main (Melee)": "Peach",
+            "Smashtag": "TGkid"
+        },
+        {
+            "Name": "David Finder",
+            "Main (Melee)": "Jigglypuff",
+            "Smashtag": "Mercury",
+            "Old Smashtag": "zazmecurial"
+        },
+        {
+            "Name": "David Lee",
+            "Smashtag": "Lee"
+        },
+        {
+            "Name": "Dov Stochel",
+            "Smashtag": "Scooter",
+            "Old Smashtag": "scootsmcgoots"
+        },
+        {
+            "Name": "Edward Klapper",
+            "Main (Melee)": "Falco",
+            "Main (PM)": "Sonic",
+            "Smashtag": "Whatshisname"
+        },
+        {
+            "Name": "Eitan Prince",
+            "Main (Melee)": "Sheik",
+            "Main (PM)": "Sheik",
+            "Smashtag": "Why?"
+        },
+        {
+            "Name": "Eli Allison",
+            "Main (Melee)": "Falco",
+            "Main (PM)": "Falco",
+            "Smashtag": "Grilled Cheezus"
+        },
+        {
+            "Name": "Ephraim Linder",
+            "Smashtag": "Cheffie"
+        },
+        {
+            "Name": "Esther Meir",
+            "Smashtag": "Peeki"
+        },
+        {
+            "Name": "Ezra Koppel",
+            "Smashtag": "Kop",
+            "Old Smashtag": "myname"
+        },
+        {
+            "Name": "Gavriel Baron",
+            "Main (Melee)": "Ice Climbers/Sheik",
+            "Main (PM)": "Sheik",
+            "Smashtag": "Tribbles"
+        },
+        {
+            "Name": "Isaac lichter",
+            "Smashtag": "Marth",
+            "Old Smashtag": "Peridot"
+        },
+        {
+            "Name": "Isaiah Blanks",
+            "Smashtag": "Izzy"
+        },
+        {
+            "Name": "Jason Jacobs",
+            "Smashtag": "Mage"
+        },
+        {
+            "Name": "Jonathan Gliboff",
+            "Smashtag": "whatisthis"
+        },
+        {
+            "Name": "Jonny Sassoon",
+            "Smashtag": "Jsass"
+        },
+        {
+            "Name": "Joseph Krebs",
+            "Smashtag": "Bowsercide"
+        },
+        {
+            "Name": "Joshua Birbach",
+            "Smashtag": "TetrisG0d",
+            "Old Smashtag": "TTM"
+        },
+        {
+            "Name": "Joshua Horowitz",
+            "Main (Melee)": "Falco",
+            "Main (PM)": "Falco",
+            "Smashtag": "Jhar"
+        },
+        {
+            "Name": "Kesser Frankiel",
+            "Main (Melee)": "Marth",
+            "Main (PM)": "Snake",
+            "Smashtag": "Mr. Crown",
+            "Old Smashtag": "Tzalmavet"
+        },
+        {
+            "Name": "Liana Sandor",
+            "Smashtag": "Holy Toasty"
+        },
+        {
+            "Name": "Miriam Gross",
+            "Smashtag": "Mimi"
+        },
+        {
+            "Name": "Noah Frydman",
+            "Smashtag": "Fries",
+            "Old Smashtag": "Frys"
+        },
+        {
+            "Name": "Noah Green",
+            "Main (PM)": "Lucario",
+            "Smashtag": "Nah"
+        },
+        {
+            "Name": "Noah Potash",
+            "Main (Melee)": "Jigglypuff/Marth",
+            "Main (PM)": "Zelda",
+            "Smashtag": "Amok"
+        },
+        {
+            "Name": "Sachy Cohen",
+            "Smashtag": "Spark"
+        },
+        {
+            "Name": "Samuel Abrahams",
+            "Main (Melee)": "Dr. Mario",
+            "Main (PM)": "Dr. Mario",
+            "Smashtag": "ChAnaN kLaPpeR",
+            "Old Smashtag": "Enforcer"
+        },
+        {
+            "Name": "Shep Gerszberg",
+            "Smashtag": "TheDM"
+        },
+        {
+            "Name": "Tamar Lichter",
+            "Smashtag": "Tamar"
+        },
+        {
+            "Name": "Tara Shrier",
+            "Smashtag": "TRex"
+        },
+        {
+            "Name": "Tomer Krayzman",
+            "Smashtag": "Tomer"
+        },
+        {
+            "Name": "Uri Kozlowski",
+            "Smashtag": "Uridakoz"
+        },
+        {
+            "Name": "Yitzy Dier",
+            "Smashtag": "not_shai"
+        },
+        {
+            "Name": "Yonah Brandwein",
+            "Main (Melee)": "Luigi",
+            "Main (PM)": "Luigi",
+            "Smashtag": "Wewt"
+        },
+        {
+            "Name": "Yosef Kagedan",
+            "Smashtag": "Coach K",
+            "Old Smashtag": "becky"
+        },
+        {
+            "Name": "Aron Kurlantzick",
+            "Smashtag": "Shredded Wheat"
+        },
+        {
+            "Name": "Zack Fischman",
+            "Smashtag": "Zvoosh"
+        }
+    ],
+    "Melee PR": [
+        {
+            "Smashtag": "Tribbles",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "1",
+            "Smash n Shteig": "5",
+            "GOMM": "3",
+            "Smashaton 2": "1",
+            "Smash n Shteig 2": "1",
+            "The Big Bais": "3"
+        },
+        {
+            "Smashtag": "Whatshisname",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "1",
+            "Smash n Shteig": "1",
+            "GOMM": "2",
+            "Smashaton 2": "3",
+            "Smash n Shteig 2": "2",
+            "The Big Bais": "1"
+        },
+        {
+            "Smashtag": "Amok",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "1.5",
+            "Smash n Shteig": "4",
+            "GOMM": "1",
+            "Smashaton 2": "5",
+            "Smash n Shteig 2": "3",
+            "The Big Bais": "2"
+        },
+        {
+            "Smashtag": "Imprune",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "3",
+            "Smash n Shteig": "2",
+            "Smashaton 2": "4",
+            "Smash n Shteig 2": "5"
+        },
+        {
+            "Smashtag": "Mercury",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "3.5",
+            "Smash n Shteig": "3",
+            "Smash n Shteig 2": "4"
+        },
+        {
+            "Smashtag": "Shredded Wheat",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "4.5",
+            "GOMM": "4",
+            "Smashaton 2": "5"
+        },
+        {
+            "Smashtag": "Jhar",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "4.5",
+            "Smashaton 2": "2",
+            "Smash n Shteig 2": "7"
+        },
+        {
+            "Smashtag": "Cowman",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "5",
+            "Smash n Shteig": "7",
+            "GOMM": "5",
+            "Smashaton 2": "9",
+            "The Big Bais": "5"
+        },
+        {
+            "Smashtag": "TGKID",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "6",
+            "Smash n Shteig": "7",
+            "GOMM": "5",
+            "Smashaton 2": "7",
+            "Smash n Shteig 2": "9"
+        },
+        {
+            "Smashtag": "Wewt",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "6",
+            "GOMM": "9",
+            "Smashaton 2": "7",
+            "Smash n Shteig 2": "5"
+        },
+        {
+            "Smashtag": "Grilled Cheezus",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "6.5",
+            "Smash n Shteig 2": "9",
+            "The Big Bais": "4"
+        },
+        {
+            "Smashtag": "Nestle",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "8",
+            "Smashaton 2": "17",
+            "Smash n Shteig 2": "9",
+            "The Big Bais": "7"
+        },
+        {
+            "Smashtag": "Scooter",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "9",
+            "Smash n Shteig": "13",
+            "GOMM": "9",
+            "Smashaton 2": "9",
+            "Smash n Shteig 2": "9"
+        },
+        {
+            "Smashtag": "Thetreesknees",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "9",
+            "GOMM": "9",
+            "Smashaton 2": "9",
+            "Smash n Shteig 2": "13",
+            "The Big Bais": "9"
+        },
+        {
+            "Smashtag": "Kop",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "9",
+            "Smash n Shteig": "9",
+            "GOMM": "9",
+            "Smashaton 2": "17",
+            "Smash n Shteig 2": "13"
+        },
+        {
+            "Smashtag": "Nah",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "9",
+            "Smashaton 2": "13",
+            "Smash n Shteig 2": "17",
+            "The Big Bais": "5"
+        },
+        {
+            "Smashtag": "Sara",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "10",
+            "GOMM": "7",
+            "Smashaton 2": "13"
+        },
+        {
+            "Smashtag": "Marth",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "11",
+            "Smashaton 2": "9",
+            "Smash n Shteig 2": "13"
+        },
+        {
+            "Smashtag": "Spark",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "11",
+            "Smash n Shteig": "9",
+            "Smash n Shteig 2": "13"
+        },
+        {
+            "Smashtag": "Mr. Crown",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "11",
+            "Smashaton 2": "13",
+            "The Big Bais": "9"
+        },
+        {
+            "Smashtag": "Enforcer",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "13",
+            "GOMM": "13",
+            "Smash n Shteig 2": "17",
+            "The Big Bais": "13"
+        },
+        {
+            "Smashtag": "Fries",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "17",
+            "Smash n Shteig": "17",
+            "GOMM": "17"
+        },
+        {
+            "Smashtag": "Tamar",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "21",
+            "Smashaton 2": "17",
+            "Smash n Shteig 2": "25"
+        },
+        {
+            "Smashtag": "Jsass",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "21",
+            "Smashaton 2": "25",
+            "Smash n Shteig 2": "17"
+        },
+        {
+            "Smashtag": "Mage",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "21",
+            "Smashaton 2": "25",
+            "Smash n Shteig 2": "17"
+        },
+        {
+            "Smashtag": "Izzy",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "29",
+            "Smashaton 2": "25",
+            "Smash n Shteig 2": "33"
+        },
+        {
+            "Smashtag": "Peeki",
+            "Went to Half or More?": "Yes",
+            "Average Placing (Melee) 3": "33",
+            "Smashaton 2": "33",
+            "Smash n Shteig 2": "33"
+        },
+        {
+            "Smashtag": "Captain Snorlax",
+            "Went to Half or More?": "No",
+            "Smash n Shteig": "5"
+        },
+        {
+            "Smashtag": "TetrisG0d",
+            "Went to Half or More?": "No",
+            "GOMM": "7"
+        },
+        {
+            "Smashtag": "Bunjo",
+            "Went to Half or More?": "No",
+            "GOMM": "13"
+        },
+        {
+            "Smashtag": "Swedish Batman",
+            "Went to Half or More?": "No",
+            "Smashaton 2": "13"
+        },
+        {
+            "Smashtag": "Princesspotato",
+            "Went to Half or More?": "No",
+            "GOMM": "17"
+        },
+        {
+            "Smashtag": "Storm Break",
+            "Went to Half or More?": "No",
+            "GOMM": "17"
+        },
+        {
+            "Smashtag": "Treetopper",
+            "Went to Half or More?": "No",
+            "GOMM": "17"
+        },
+        {
+            "Smashtag": "Squtr",
+            "Went to Half or More?": "No",
+            "GOMM": "17"
+        },
+        {
+            "Smashtag": "MMGinger",
+            "Went to Half or More?": "No",
+            "Smashaton 2": "17"
+        },
+        {
+            "Smashtag": "EEEN",
+            "Went to Half or More?": "No",
+            "Smashaton 2": "17"
+        },
+        {
+            "Smashtag": "CoachK",
+            "Went to Half or More?": "No",
+            "Smashaton 2": "17"
+        },
+        {
+            "Smashtag": "Liana",
+            "Went to Half or More?": "No",
+            "Smashaton 2": "17"
+        },
+        {
+            "Smashtag": "DefNotCerealKiller",
+            "Went to Half or More?": "No",
+            "Smashaton 2": "17"
+        },
+        {
+            "Smashtag": "Tbtwo",
+            "Went to Half or More?": "No",
+            "Smashaton 2": "25"
+        },
+        {
+            "Smashtag": "Darth Gamer",
+            "Went to Half or More?": "No",
+            "Smashaton 2": "25"
+        },
+        {
+            "Smashtag": "Tetris",
+            "Went to Half or More?": "No",
+            "Smashaton 2": "25"
+        },
+        {
+            "Smashtag": "TeAddict",
+            "Went to Half or More?": "No",
+            "Smashaton 2": "25"
+        }
+    ],
+    "PM PR": [
+        {
+            "Smashtag": "Whatshisname",
+            "Went to half or more?": "Yes",
+            "Average Placing (PM) 4": "1.333333333",
+            "Smash n Shteig": "2",
+            "GOMM": "1",
+            "Smashaton 2": "1",
+            "Smash n Shteig 2": "2",
+            "GOMM 2": "2"
+        },
+        {
+            "Smashtag": "Imprune",
+            "Went to half or more?": "Yes",
+            "Average Placing (PM) 4": "2",
+            "Smash n Shteig": "1",
+            "Smashaton": "1",
+            "Smashaton 2": "4",
+            "Smash n Shteig 2": "4"
+        },
+        {
+            "Smashtag": "Cowman",
+            "Went to half or more?": "Yes",
+            "Average Placing (PM) 4": "3",
+            "Smash n Shteig": "3",
+            "Smashaton": "3",
+            "GOMM": "4",
+            "Smashaton 2": "9",
+            "GOMM 2": "3"
+        },
+        {
+            "Smashtag": "Nah",
+            "Went to half or more?": "Yes",
+            "Average Placing (PM) 4": "3",
+            "Smashaton": "7",
+            "Smashaton 2": "13",
+            "Smash n Shteig 2": "1",
+            "GOMM 2": "1"
+        },
+        {
+            "Smashtag": "Amok",
+            "Went to half or more?": "Yes",
+            "Average Placing (PM) 4": "3.333333333",
+            "Smash n Shteig": "N/A",
+            "Smashaton": "5",
+            "GOMM": "2",
+            "Smashaton 2": "3",
+            "Smash n Shteig 2": "N/A"
+        },
+        {
+            "Smashtag": "Shredded Wheat",
+            "Went to half or more?": "Yes",
+            "Average Placing (PM) 4": "3.666666667",
+            "Smashaton": "2",
+            "GOMM": "5",
+            "Smashaton 2": "7",
+            "GOMM 2": "4"
+        },
+        {
+            "Smashtag": "Kop",
+            "Went to half or more?": "Yes",
+            "Average Placing (PM) 4": "4.666666667",
+            "Smash n Shteig": "4",
+            "GOMM": "3",
+            "Smashaton 2": "9",
+            "Smash n Shteig 2": "7"
+        },
+        {
+            "Smashtag": "Wewt",
+            "Went to half or more?": "Yes",
+            "Average Placing (PM) 4": "5.666666667",
+            "GOMM": "5",
+            "Smashaton 2": "5",
+            "Smash n Shteig 2": "7"
+        },
+        {
+            "Smashtag": "Tribbles",
+            "Went to half or more?": "Yes",
+            "Average Placing (PM) 4": "5.666666667",
+            "Smash n Shteig": "5",
+            "Smashaton": "9",
+            "GOMM": "7",
+            "Smashaton 2": "5",
+            "Smash n Shteig 2": "9"
+        },
+        {
+            "Smashtag": "Nestle",
+            "Went to half or more?": "Yes",
+            "Average Placing (PM) 4": "6.333333333",
+            "Smashaton": "5",
+            "Smashaton 2": "9",
+            "Smash n Shteig 2": "5"
+        },
+        {
+            "Smashtag": "Sara",
+            "Went to half or more?": "Yes",
+            "Average Placing (PM) 4": "7",
+            "Smashaton": "7",
+            "GOMM": "9",
+            "Smashaton 2": "17",
+            "GOMM 2": "5"
+        },
+        {
+            "Smashtag": "Thetreesknees",
+            "Went to half or more?": "Yes",
+            "Average Placing (PM) 4": "7.666666667",
+            "Smashaton": "17",
+            "GOMM": "9",
+            "Smashaton 2": "7",
+            "Smash n Shteig 2": "9",
+            "GOMM 2": "7"
+        },
+        {
+            "Smashtag": "TGKID",
+            "Went to half or more?": "Yes",
+            "Average Placing (PM) 4": "9",
+            "Smash n Shteig": "9",
+            "GOMM": "13",
+            "Smashaton 2": "13",
+            "Smash n Shteig 2": "5"
+        },
+        {
+            "Smashtag": "Scooter",
+            "Went to half or more?": "Yes",
+            "Average Placing (PM) 4": "9",
+            "Smash n Shteig": "9",
+            "Smashaton": "9",
+            "GOMM": "9",
+            "Smashaton 2": "25",
+            "Smash n Shteig 2": "9",
+            "GOMM 2": "9"
+        },
+        {
+            "Smashtag": "Enforcer",
+            "Went to half or more?": "Yes",
+            "Average Placing (PM) 4": "9.666666667",
+            "Smashaton": "9",
+            "GOMM": "7",
+            "Smash n Shteig 2": "17",
+            "GOMM 2": "13"
+        },
+        {
+            "Smashtag": "Jhar",
+            "Went to half or more?": "No",
+            "Smashaton 2": "2",
+            "Smash n Shteig 2": "3"
+        },
+        {
+            "Smashtag": "Mr. Crown",
+            "Went to half or more?": "No",
+            "Smashaton": "4",
+            "Smashaton 2": "17"
+        },
+        {
+            "Smashtag": "Bunjo",
+            "Went to half or more?": "No",
+            "Smashaton": "9",
+            "GOMM": "13"
+        },
+        {
+            "Smashtag": "CoachK",
+            "Went to half or more?": "No",
+            "Smashaton": "13",
+            "Smashaton 2": "13"
+        },
+        {
+            "Smashtag": "Fries",
+            "Went to half or more?": "No",
+            "Smash n Shteig": "N/A",
+            "Smashaton": "13",
+            "GOMM": "13"
+        },
+        {
+            "Smashtag": "Marth",
+            "Went to half or more?": "No",
+            "Smashaton 2": "17",
+            "Smash n Shteig 2": "13"
+        },
+        {
+            "Smashtag": "Tamar",
+            "Went to half or more?": "No",
+            "Smashaton 2": "17",
+            "Smash n Shteig 2": "13"
+        },
+        {
+            "Smashtag": "Jsass",
+            "Went to half or more?": "No",
+            "Smashaton 2": "17",
+            "Smash n Shteig 2": "17"
+        },
+        {
+            "Smashtag": "Izzy",
+            "Went to half or more?": "No",
+            "Smashaton 2": "17",
+            "Smash n Shteig 2": "17"
+        },
+        {
+            "Smashtag": "TetrisG0d",
+            "Went to half or more?": "No",
+            "Smashaton": "25",
+            "GOMM": "17"
+        },
+        {
+            "Smashtag": "Mage",
+            "Went to half or more?": "No",
+            "Smashaton 2": "25",
+            "Smash n Shteig 2": "17"
+        },
+        {
+            "Smashtag": "Peshe",
+            "Went to half or more?": "No",
+            "Smashaton 2": "9"
+        },
+        {
+            "Smashtag": "Tbtwo",
+            "Went to half or more?": "No",
+            "Smashaton 2": "17",
+            "GOMM 2": "7"
+        },
+        {
+            "Smashtag": "Princesspotato",
+            "Went to half or more?": "No",
+            "GOMM": "17",
+            "GOMM 2": "13"
+        },
+        {
+            "Smashtag": "Storm Break",
+            "Went to half or more?": "No",
+            "GOMM": "17"
+        },
+        {
+            "Smashtag": "Treetopper",
+            "Went to half or more?": "No",
+            "GOMM": "17"
+        },
+        {
+            "Smashtag": "Squtr",
+            "Went to half or more?": "No",
+            "GOMM": "17"
+        },
+        {
+            "Smashtag": "Grilled Cheezus",
+            "Went to half or more?": "No",
+            "Smash n Shteig 2": "17"
+        },
+        {
+            "Smashtag": "Peeki",
+            "Went to half or more?": "No",
+            "Smashaton 2": "N/A",
+            "Smash n Shteig 2": "25",
+            "GOMM 2": "9"
+        },
+        {
+            "Smashtag": "T-Rex",
+            "Went to half or more?": "No",
+            "Smashaton 2": "33",
+            "Smash n Shteig 2": "N/A",
+            "GOMM 2": "13"
+        },
+        {
+            "Smashtag": "MMGinger",
+            "Went to half or more?": "No",
+            "Smashaton 2": "25"
+        },
+        {
+            "Smashtag": "Swedish Batman",
+            "Went to half or more?": "No",
+            "Smashaton 2": "25"
+        },
+        {
+            "Smashtag": "Tetris",
+            "Went to half or more?": "No",
+            "Smashaton 2": "25"
+        },
+        {
+            "Smashtag": "TheThrillMan",
+            "Went to half or more?": "No",
+            "Smashaton 2": "25"
+        },
+        {
+            "Smashtag": "TeAddict",
+            "Went to half or more?": "No",
+            "Smashaton 2": "25"
+        },
+        {
+            "Smashtag": "FishNChips",
+            "Went to half or more?": "No",
+            "Smashaton 2": "25"
+        },
+        {
+            "Smashtag": "EEEN",
+            "Went to half or more?": "No",
+            "Smashaton 2": "33"
+        },
+        {
+            "Smashtag": "Darth Gamer",
+            "Went to half or more?": "No",
+            "Smashaton 2": "33"
+        },
+        {
+            "Smashtag": "DefNotCerealKiller",
+            "Went to half or more?": "No",
+            "Smashaton 2": "33"
+        },
+        {
+            "Smashtag": "Bish",
+            "Went to half or more?": "No",
+            "Smashaton 2": "33"
+        },
+        {
+            "Smashtag": "Jerkface",
+            "Went to half or more?": "No",
+            "Smashaton 2": "33"
+        },
+        {
+            "Smashtag": "Z.A.K",
+            "Went to half or more?": "No",
+            "Smashaton 2": "33"
+        },
+        {
+            "Smashtag": "Dr. Ninja",
+            "Went to half or more?": "No",
+            "Smashaton 2": "33"
+        },
+        {
+            "Smashtag": "Kitty",
+            "Went to half or more?": "No",
+            "Smashaton 2": "33"
+        },
+        {
+            "Smashtag": "Mercury",
+            "Went to half or more?": "No",
+            "Smash n Shteig": "N/A",
+            "Smash n Shteig 2": "N/A"
+        }
+    ],
+    "Melee H2H (1)": [
+        {
+            "Updated: SnS 2": "Whatshisname",
+            "Tribbles": "3 - 3",
+            "Amok": "3 - 2",
+            "Mercury": "2 - 0",
+            "Imprune": "2 - 1",
+            "Jhar": "1 - 1",
+            "Shredded Wheat": "1 - 0",
+            "TGKID": "",
+            "Cowman": "1 - 0",
+            "Wewt": "3 - 0"
+        },
+        {
+            "Updated: SnS 2": "Tribbles",
+            "Whatshisname": "3 - 3",
+            "Amok": "1 - 2",
+            "Mercury": "",
+            "Imprune": "1 - 0",
+            "Jhar": "2 - 1",
+            "Shredded Wheat": "",
+            "TGKID": "2 - 0",
+            "Cowman": "",
+            "Wewt": "1 - 0"
+        },
+        {
+            "Updated: SnS 2": "Amok",
+            "Whatshisname": "2 - 3",
+            "Tribbles": "2 - 1",
+            "Mercury": "1 - 2",
+            "Imprune": "0 - 1",
+            "Jhar": "",
+            "Shredded Wheat": "1 - 0",
+            "TGKID": "1 - 0",
+            "Cowman": "",
+            "Wewt": ""
+        },
+        {
+            "Updated: SnS 2": "Mercury",
+            "Whatshisname": "0 - 2",
+            "Amok": "2 - 1",
+            "Imprune": "1 - 1",
+            "Jhar": "0 - 1",
+            "Shredded Wheat": "",
+            "TGKID": "",
+            "Cowman": "",
+            "Wewt": ""
+        },
+        {
+            "Updated: SnS 2": "Imprune",
+            "Whatshisname": "1 - 2",
+            "Tribbles": "0 - 1",
+            "Amok": "1 - 0",
+            "Mercury": "1 - 1",
+            "Jhar": "0 - 2",
+            "Shredded Wheat": "",
+            "TGKID": "2 - 0",
+            "Cowman": "",
+            "Wewt": ""
+        },
+        {
+            "Updated: SnS 2": "Jhar",
+            "Whatshisname": "1 - 1",
+            "Tribbles": "1 - 2",
+            "Mercury": "1 - 0",
+            "Imprune": "2 - 0",
+            "Shredded Wheat": "2 - 0",
+            "TGKID": "1 - 0",
+            "Cowman": "",
+            "Wewt": ""
+        },
+        {
+            "Updated: SnS 2": "Shredded Wheat",
+            "Whatshisname": "0 - 1",
+            "Amok": "0 - 1",
+            "Jhar": "0 - 2",
+            "TGKID": "1 - 0",
+            "Cowman": "",
+            "Wewt": "1 - 0"
+        },
+        {
+            "Updated: SnS 2": "TGKID",
+            "Tribbles": "0 - 2",
+            "Amok": "0 - 1",
+            "Imprune": "0 - 2",
+            "Jhar": "0 - 1",
+            "Shredded Wheat": "0 - 1",
+            "Cowman": "2 - 0",
+            "Wewt": "0 - 1"
+        },
+        {
+            "Updated: SnS 2": "Cowman",
+            "Whatshisname": "0 - 1",
+            "TGKID": "0 - 2",
+            "Wewt": "0 - 1"
+        },
+        {
+            "Updated: SnS 2": "Wewt",
+            "Whatshisname": "0 - 3",
+            "Tribbles": "0 - 1",
+            "Shredded Wheat": "0 - 1",
+            "TGKID": "1 - 0",
+            "Cowman": "1 - 0"
+        }
+    ],
+    "PM H2H (1)": [
+        {
+            "Updated: SnS 2": "Whatshisname",
+            "Imprune": "1 - 1",
+            "Jhar": "3 - 1",
+            "Amok": "3 - 0",
+            "Shredded Wheat": "",
+            "Cowman": "1 - 1",
+            "Wewt": "2 - 0",
+            "Kop": "1 - 0",
+            "Nestle": "",
+            "Tribbles": ""
+        },
+        {
+            "Updated: SnS 2": "Imprune",
+            "Whatshisname": "1 - 1",
+            "Jhar": "0 - 1",
+            "Amok": "1 - 1",
+            "Shredded Wheat": "2 - 0",
+            "Cowman": "2 - 0",
+            "Wewt": "1 - 0",
+            "Kop": "",
+            "Nestle": "1 - 0",
+            "Tribbles": "3 - 0"
+        },
+        {
+            "Updated: SnS 2": "Jhar",
+            "Whatshisname": "1 - 3",
+            "Imprune": "1 - 0",
+            "Amok": "1 - 0",
+            "Shredded Wheat": "",
+            "Cowman": "1 - 0",
+            "Wewt": "",
+            "Kop": "",
+            "Nestle": "1 - 0",
+            "Tribbles": ""
+        },
+        {
+            "Updated: SnS 2": "Amok",
+            "Whatshisname": "0 - 3",
+            "Imprune": "1 - 1",
+            "Jhar": "0 - 1",
+            "Shredded Wheat": "2 - 0",
+            "Cowman": "1 - 0",
+            "Wewt": "1 - 0",
+            "Kop": "1 - 0",
+            "Nestle": "",
+            "Tribbles": ""
+        },
+        {
+            "Updated: SnS 2": "Shredded Wheat",
+            "Imprune": "0 - 2",
+            "Amok": "0 - 2",
+            "Cowman": "1 - 1",
+            "Wewt": "1 - 1",
+            "Kop": "1 - 0",
+            "Nestle": "1 - 0",
+            "Tribbles": ""
+        },
+        {
+            "Updated: SnS 2": "Cowman",
+            "Whatshisname": "1 - 1",
+            "Imprune": "0 - 2",
+            "Jhar": "0 - 1",
+            "Amok": "0 - 1",
+            "Shredded Wheat": "1 - 1",
+            "Wewt": "",
+            "Kop": "0 - 1",
+            "Nestle": "1 - 0",
+            "Tribbles": "2 - 1"
+        },
+        {
+            "Updated: SnS 2": "Wewt",
+            "Whatshisname": "0 - 2",
+            "Imprune": "0 - 1",
+            "Amok": "0 - 1",
+            "Shredded Wheat": "1 - 1",
+            "Kop": "",
+            "Nestle": "1 - 0",
+            "Tribbles": "1 - 0"
+        },
+        {
+            "Updated: SnS 2": "Kop",
+            "Whatshisname": "0 - 1",
+            "Amok": "0 - 1",
+            "Shredded Wheat": "0 - 1",
+            "Cowman": "1 - 0",
+            "Nestle": "0 - 2",
+            "Tribbles": ""
+        },
+        {
+            "Updated: SnS 2": "Nestle",
+            "Imprune": "0 - 1",
+            "Jhar": "0 - 1",
+            "Shredded Wheat": "0 - 1",
+            "Cowman": "0 - 1",
+            "Wewt": "0 - 1",
+            "Kop": "2 - 0",
+            "Tribbles": ""
+        },
+        {
+            "Updated: SnS 2": "Tribbles",
+            "Imprune": "0 - 3",
+            "Cowman": "1 - 2",
+            "Wewt": "0 - 1"
+        }
+    ],
+    "Smash n Shteig Results": [
+        {
+            "Smash n' Shteig (Melee)": "Whatshisname",
+            "Place (Melee)": "1",
+            "Place (PM)": "2"
+        },
+        {
+            "Smash n' Shteig (Melee)": "Imprune",
+            "Place (Melee)": "2",
+            "Place (PM)": "1"
+        },
+        {
+            "Smash n' Shteig (Melee)": "Mercury",
+            "Place (Melee)": "3",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Smash n' Shteig (Melee)": "Amok",
+            "Place (Melee)": "4",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Smash n' Shteig (Melee)": "Tribbles",
+            "Place (Melee)": "5",
+            "Place (PM)": "5"
+        },
+        {
+            "Smash n' Shteig (Melee)": "Captain Snorlax",
+            "Place (Melee)": "5",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Smash n' Shteig (Melee)": "TGKid",
+            "Place (Melee)": "7",
+            "Place (PM)": "9"
+        },
+        {
+            "Smash n' Shteig (Melee)": "Cowman",
+            "Place (Melee)": "7",
+            "Place (PM)": "3"
+        },
+        {
+            "Smash n' Shteig (Melee)": "Kop",
+            "Place (Melee)": "9",
+            "Place (PM)": "4"
+        },
+        {
+            "Smash n' Shteig (Melee)": "Spark",
+            "Place (Melee)": "9",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Smash n' Shteig (Melee)": "EntireFuton",
+            "Place (Melee)": "9",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Smash n' Shteig (Melee)": "When?",
+            "Place (Melee)": "9",
+            "Place (PM)": "7"
+        },
+        {
+            "Smash n' Shteig (Melee)": "xtremetg",
+            "Place (Melee)": "13",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Smash n' Shteig (Melee)": "scooter",
+            "Place (Melee)": "13",
+            "Place (PM)": "9"
+        },
+        {
+            "Smash n' Shteig (Melee)": "JDROX",
+            "Place (Melee)": "13",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Smash n' Shteig (Melee)": "CheeseMaster",
+            "Place (Melee)": "13",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Smash n' Shteig (Melee)": "swattr",
+            "Place (Melee)": "17",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Smash n' Shteig (Melee)": "murphy",
+            "Place (Melee)": "17",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Smash n' Shteig (Melee)": "Fries",
+            "Place (Melee)": "17",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Smash n' Shteig (Melee)": "Moopith",
+            "Place (Melee)": "17",
+            "Place (PM)": "9"
+        },
+        {
+            "Smash n' Shteig (Melee)": "mr handy",
+            "Place (Melee)": "17",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Smash n' Shteig (Melee)": "Zelgius",
+            "Place (Melee)": "17",
+            "Place (PM)": "N/A"
+        }
+    ],
+    "Smashaton Results": [
+        {
+            "Name": "Imprune",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "1"
+        },
+        {
+            "Name": "Shredded Wheat",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "2"
+        },
+        {
+            "Name": "Cowman",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "3"
+        },
+        {
+            "Name": "Mr. Crown",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "4"
+        },
+        {
+            "Name": "Nestle",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "5"
+        },
+        {
+            "Name": "Amok",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "5"
+        },
+        {
+            "Name": "Sara",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "7"
+        },
+        {
+            "Name": "NAH",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "7"
+        },
+        {
+            "Name": "Scooter",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "Tribbles",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "Bunjo",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "Enforcer",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "QuadBoy",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "Fries",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "CoachK",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "Yoho Pirate",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "Begintheend1",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Baah",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Les Silly Face",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "BabyB",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Pokemaster",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Gigi",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Nicktoons",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Thetreesknees",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Asam",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "25"
+        },
+        {
+            "Name": "Elijah",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "25"
+        },
+        {
+            "Name": "TetrisG0d",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "25"
+        }
+    ],
+    "GOMM Results": [
+        {
+            "Name": "Amok",
+            "Place (Melee)": "1",
+            "Place (PM)": "2"
+        },
+        {
+            "Name": "Whatshisname",
+            "Place (Melee)": "2",
+            "Place (PM)": "1"
+        },
+        {
+            "Name": "Tribbles",
+            "Place (Melee)": "3",
+            "Place (PM)": "7"
+        },
+        {
+            "Name": "Shredded Wheat",
+            "Place (Melee)": "4",
+            "Place (PM)": "5"
+        },
+        {
+            "Name": "TGkid",
+            "Place (Melee)": "5",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "Cowman",
+            "Place (Melee)": "5",
+            "Place (PM)": "4"
+        },
+        {
+            "Name": "Sara",
+            "Place (Melee)": "7",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "TetrisG0d",
+            "Place (Melee)": "7",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Kop",
+            "Place (Melee)": "9",
+            "Place (PM)": "3"
+        },
+        {
+            "Name": "Wewt",
+            "Place (Melee)": "9",
+            "Place (PM)": "5"
+        },
+        {
+            "Name": "Scooter",
+            "Place (Melee)": "9",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "Thetreesknees",
+            "Place (Melee)": "9",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "Pyosman",
+            "Place (Melee)": "13",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "Bunjo",
+            "Place (Melee)": "13",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "Enforcer",
+            "Place (Melee)": "13",
+            "Place (PM)": "7"
+        },
+        {
+            "Name": "Kekster",
+            "Place (Melee)": "13",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Jocob",
+            "Place (Melee)": "17",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "Fries",
+            "Place (Melee)": "17",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "Storm break",
+            "Place (Melee)": "17",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Squtr",
+            "Place (Melee)": "17",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Princesspotato",
+            "Place (Melee)": "17",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Treetopper",
+            "Place (Melee)": "17",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Vaile33",
+            "Place (Melee)": "17",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "TGM",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "17"
+        }
+    ],
+    "Smashaton 2 Results": [
+        {
+            "Name": "Tribbles",
+            "Place (Melee)": "1",
+            "Place (PM)": "5"
+        },
+        {
+            "Name": "Jhar",
+            "Place (Melee)": "2",
+            "Place (PM)": "2"
+        },
+        {
+            "Name": "Whatshisname",
+            "Place (Melee)": "3",
+            "Place (PM)": "1"
+        },
+        {
+            "Name": "Imprune",
+            "Place (Melee)": "4",
+            "Place (PM)": "4"
+        },
+        {
+            "Name": "Amok",
+            "Place (Melee)": "5",
+            "Place (PM)": "3"
+        },
+        {
+            "Name": "Shredded Wheat",
+            "Place (Melee)": "5",
+            "Place (PM)": "7"
+        },
+        {
+            "Name": "TGKid",
+            "Place (Melee)": "7",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "Wewt",
+            "Place (Melee)": "7",
+            "Place (PM)": "5"
+        },
+        {
+            "Name": "Marth",
+            "Place (Melee)": "9",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Cowman",
+            "Place (Melee)": "9",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "Thetreesknees",
+            "Place (Melee)": "9",
+            "Place (PM)": "7"
+        },
+        {
+            "Name": "Scooter",
+            "Place (Melee)": "9",
+            "Place (PM)": "25"
+        },
+        {
+            "Name": "Nah",
+            "Place (Melee)": "13",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "Swedish Batman",
+            "Place (Melee)": "13",
+            "Place (PM)": "25"
+        },
+        {
+            "Name": "Mr. Crown",
+            "Place (Melee)": "13",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Sara",
+            "Place (Melee)": "13",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Kop",
+            "Place (Melee)": "17",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "Tamar",
+            "Place (Melee)": "17",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "EEEN",
+            "Place (Melee)": "17",
+            "Place (PM)": "33"
+        },
+        {
+            "Name": "MMGinger",
+            "Place (Melee)": "17",
+            "Place (PM)": "25"
+        },
+        {
+            "Name": "Nestle",
+            "Place (Melee)": "17",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "CoachK",
+            "Place (Melee)": "17",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "Liana",
+            "Place (Melee)": "17",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Name": "DefNotCerealKiller",
+            "Place (Melee)": "17",
+            "Place (PM)": "33"
+        },
+        {
+            "Name": "Izzy",
+            "Place (Melee)": "25",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Darth Gamer",
+            "Place (Melee)": "25",
+            "Place (PM)": "33"
+        },
+        {
+            "Name": "Josh Finklestein",
+            "Place (Melee)": "25",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Name": "Tetris",
+            "Place (Melee)": "25",
+            "Place (PM)": "25"
+        },
+        {
+            "Name": "TBTWO",
+            "Place (Melee)": "25",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "jsass",
+            "Place (Melee)": "25",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "TeAddict",
+            "Place (Melee)": "25",
+            "Place (PM)": "25"
+        },
+        {
+            "Name": "Mage",
+            "Place (Melee)": "25",
+            "Place (PM)": "25"
+        },
+        {
+            "Name": "Peeki",
+            "Place (Melee)": "33",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Name": "FishNChips",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "25"
+        },
+        {
+            "Name": "TheThrillMan",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "25"
+        },
+        {
+            "Name": "Bish",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "33"
+        },
+        {
+            "Name": "Jerkface",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "33"
+        },
+        {
+            "Name": "Peshe",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "Z.A.K",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "33"
+        },
+        {
+            "Name": "T-Rex",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "33"
+        },
+        {
+            "Name": "Dr. Ninja",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "33"
+        },
+        {
+            "Name": "kitty",
+            "Place (Melee)": "N/A",
+            "Place (PM)": "33"
+        }
+    ],
+    "Smash n Shteig 2 Results": [
+        {
+            "Name": "Tribbles",
+            "Place (Melee)": "1",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "Whatshisname",
+            "Place (Melee)": "2",
+            "Place (PM)": "2"
+        },
+        {
+            "Name": "Amok",
+            "Place (Melee)": "3",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Name": "Mercury",
+            "Place (Melee)": "4",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Name": "Imprune",
+            "Place (Melee)": "5",
+            "Place (PM)": "4"
+        },
+        {
+            "Name": "Wewt",
+            "Place (Melee)": "5",
+            "Place (PM)": "7"
+        },
+        {
+            "Name": "Jhar",
+            "Place (Melee)": "7",
+            "Place (PM)": "3"
+        },
+        {
+            "Name": "Why?",
+            "Place (Melee)": "7",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "TGkid",
+            "Place (Melee)": "9",
+            "Place (PM)": "5"
+        },
+        {
+            "Name": "Scooter",
+            "Place (Melee)": "9",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "Grilled Cheezus",
+            "Place (Melee)": "9",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Nestle",
+            "Place (Melee)": "9",
+            "Place (PM)": "5"
+        },
+        {
+            "Name": "Spark",
+            "Place (Melee)": "13",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Name": "Thetreesknees",
+            "Place (Melee)": "13",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "Marth",
+            "Place (Melee)": "13",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "Kop",
+            "Place (Melee)": "13",
+            "Place (PM)": "7"
+        },
+        {
+            "Name": "Enforcer",
+            "Place (Melee)": "17",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Nah",
+            "Place (Melee)": "17",
+            "Place (PM)": "1"
+        },
+        {
+            "Name": "Jsass",
+            "Place (Melee)": "17",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Mage",
+            "Place (Melee)": "17",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Bowsercide",
+            "Place (Melee)": "17",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Name": "whatisthis",
+            "Place (Melee)": "17",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "ChaChis",
+            "Place (Melee)": "17",
+            "Place (PM)": "25"
+        },
+        {
+            "Name": "Mathew",
+            "Place (Melee)": "17",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Name": "Tamar",
+            "Place (Melee)": "25",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "Coach K",
+            "Place (Melee)": "25",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "Mr. Handy",
+            "Place (Melee)": "25",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Name": "Lee",
+            "Place (Melee)": "25",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Name": "TheDM",
+            "Place (Melee)": "25",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "Cheffie",
+            "Place (Melee)": "25",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Name": "Shmiel",
+            "Place (Melee)": "25",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Name": "Holy Toasty",
+            "Place (Melee)": "25",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Name": "Izzy",
+            "Place (Melee)": "33",
+            "Place (PM)": "17"
+        },
+        {
+            "Name": "T-rex",
+            "Place (Melee)": "33",
+            "Place (PM)": "N/A"
+        },
+        {
+            "Name": "Peeki",
+            "Place (Melee)": "33",
+            "Place (PM)": "25"
+        },
+        {
+            "Name": "not_shai",
+            "Place (Melee)": "33",
+            "Place (PM)": "N/A"
+        }
+    ],
+    "GOMM 2 Results": [
+        {
+            "Name": "Nah",
+            "Place (PM)": "1"
+        },
+        {
+            "Name": "Whatshisname",
+            "Place (PM)": "2"
+        },
+        {
+            "Name": "Cowman",
+            "Place (PM)": "3"
+        },
+        {
+            "Name": "Shredded Wheat",
+            "Place (PM)": "4"
+        },
+        {
+            "Name": "Sara",
+            "Place (PM)": "5"
+        },
+        {
+            "Name": "Naizab",
+            "Place (PM)": "5"
+        },
+        {
+            "Name": "Tbtwo",
+            "Place (PM)": "7"
+        },
+        {
+            "Name": "Thetreesknees",
+            "Place (PM)": "7"
+        },
+        {
+            "Name": "Peeki",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "Sexy Sideburns",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "Scooter",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "Bring the ThunDier",
+            "Place (PM)": "9"
+        },
+        {
+            "Name": "Jenny from the Block",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "Enforcer",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "T-Rex",
+            "Place (PM)": "13"
+        },
+        {
+            "Name": "Princesspotato",
+            "Place (PM)": "13"
+        }
+    ],
+    "The Big Bais Results": [
+        {
+            "Name": "Tribbles",
+            "Place (Melee)": "3",
+            "Place (Ultimate)": "9"
+        },
+        {
+            "Name": "Whatshisname",
+            "Place (Melee)": "1",
+            "Place (Ultimate)": "9"
+        },
+        {
+            "Name": "Amok",
+            "Place (Melee)": "2",
+            "Place (Ultimate)": "3"
+        },
+        {
+            "Name": "Cowman",
+            "Place (Melee)": "5",
+            "Place (Ultimate)": "1"
+        },
+        {
+            "Name": "Thetreesknees",
+            "Place (Melee)": "9"
+        },
+        {
+            "Name": "Nestle",
+            "Place (Melee)": "7",
+            "Place (Ultimate)": "9"
+        },
+        {
+            "Name": "Enforcer",
+            "Place (Melee)": "13",
+            "Place (Ultimate)": "13"
+        },
+        {
+            "Name": "Nah",
+            "Place (Melee)": "5",
+            "Place (Ultimate)": "2"
+        },
+        {
+            "Name": "Coach K",
+            "Place (Melee)": "7",
+            "Place (Ultimate)": "4"
+        },
+        {
+            "Name": "Mr. Crown",
+            "Place (Melee)": "9",
+            "Place (Ultimate)": "7"
+        },
+        {
+            "Name": "Grilled Cheezus",
+            "Place (Melee)": "4",
+            "Place (Ultimate)": "5"
+        },
+        {
+            "Name": "Zvoosh",
+            "Place (Melee)": "9",
+            "Place (Ultimate)": "5"
+        },
+        {
+            "Name": "E3",
+            "Place (Melee)": "13",
+            "Place (Ultimate)": "9"
+        },
+        {
+            "Name": "Mimi",
+            "Place (Melee)": "13",
+            "Place (Ultimate)": "13"
+        },
+        {
+            "Name": "Kuriibu",
+            "Place (Melee)": "9",
+            "Place (Ultimate)": "9"
+        },
+        {
+            "Name": "Toasty",
+            "Place (Melee)": "17",
+            "Place (Ultimate)": "13"
+        },
+        {
+            "Name": "Pikablue",
+            "Place (Melee)": "13",
+            "Place (Ultimate)": "7"
+        },
+        {
+            "Name": "Arc",
+            "Place (Ultimate)": "13"
+        }
+    ]
+}
