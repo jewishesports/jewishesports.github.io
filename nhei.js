@@ -20,7 +20,7 @@
 
   function addPrList(){
     var file = JSON.parse(readJSON("power_rankings.json"));
-    for(int i = 0; i < 20; i++) {
+    for(var i = 0; i < 20; i++) {
       var list = document.createElement("li");
       var text = document.createTextNode(power_rankings["Melee PR"][i]["Smashtag"]);
       list.appendCHild(text);
