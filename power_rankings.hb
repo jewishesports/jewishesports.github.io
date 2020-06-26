@@ -19,5 +19,6 @@
 	<ul class="pr">
 		{{#each Smashtag}}
 		<li>{{this}}</li>
+		{{/each}}
 	</ul>
 </div>
